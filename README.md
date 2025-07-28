@@ -17,8 +17,8 @@ All the packeges needed to install are part of the notebooks, and will be automa
 ## Usage
 > [!TIP]
 > Recommended to use Google colab GPU runtime type.
-Run the desired ipynb notebook in Google colab.
 
+Run the desired ipynb notebook in Google colab.
 Note: some notebooks may need L4 GPU runtime type, which currently is not avialabe for free.
 
 ## Code structure
